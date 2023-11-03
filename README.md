@@ -5,7 +5,7 @@
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/li-chen-cheng/)](https://www.linkedin.com/in/li-chen-cheng/)
 [![Portfolio Badge](https://img.shields.io/badge/website-808080?style=for-the-badge&logo=About.me&logoColor=white&link=https://personal-website-leon-lcc.vercel.app/)](https://personal-website-leon-lcc.vercel.app/)
 [![Leetcode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black&link=https://leetcode.com/Leon_LCC/)](https://leetcode.com/Leon_LCC/)
-[![Google Scholar](https://img.shields.io/badge/-Google%20Scholar-4285F4?style=for-the-badge&logo=GoogleScholar&logoColor=white&link=https://scholar.google.com.tw/citations?user=7974KNgAAAAJ&hl=zh-TW&authuser=6)](https://scholar.google.com.tw/citations?user=7974KNgAAAAJ&hl=zh-TW&authuser=6)
+[![Google Scholar](https://img.shields.io/badge/-Google%20Scholar-4285F4?style=for-the-badge&logo=GoogleScholar&logoColor=white&link=https://scholar.google.com.tw/citations?user=7974KNgAAAAJ&hl=zh-TW)](https://scholar.google.com.tw/citations?user=7974KNgAAAAJ&hl=zh-TW)
 <!-- <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='350'> -->
 
 <h2>About me ✨</h2>
