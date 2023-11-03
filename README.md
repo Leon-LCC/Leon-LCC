@@ -1,4 +1,4 @@
-<h2> Hi there <a href="https://Leon-LCC.me/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="3%"></a> </h2>
+<h1> Hi there <a href="https://Leon-LCC.me/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="3%"></a> </h1>
 <!-- Badges: https://dev.to/envoy_/150-badges-for-github-pnk -->
 
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:lc.cheng00@gmail.com)](mailto:lc.cheng00@gmail.com)
@@ -8,7 +8,7 @@
 [![Google Scholar](https://img.shields.io/badge/-Google%20Scholar-4285F4?style=for-the-badge&logo=GoogleScholar&logoColor=white&link=https://scholar.google.com.tw/citations?user=7974KNgAAAAJ&hl=zh-TW&authuser=6)](https://scholar.google.com.tw/citations?user=7974KNgAAAAJ&hl=zh-TW&authuser=6)
 <!-- <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='350'> -->
 
-<h4>About me ✨</h4>
+<h2>About me ✨</h2>
 
 <p fontSize="12px"> Welcome, visitor! I am Leon, and I'm a graduate student specializing in AI security and privacy. 👨‍💻</br> </p>
 
@@ -34,6 +34,6 @@ Here are some ideas to get you started:
 
 </br>
 
-<h4>Acknowledgement :white_check_mark: </h4>
+<h3>Acknowledgement :white_check_mark: </h3>
 
 The style of this profile is borrowed from my friend [Frank](https://swh00tw.vercel.app). Check out his repo and see some cool stuff he built.
