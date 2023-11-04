@@ -12,7 +12,7 @@
 
 <p fontSize="12px"> Welcome, visitor! I am Leon, and I'm a graduate student specializing in AI security and privacy. 👨‍💻</br> </p>
 
-I am also interested in many CV/NLP applications and optimization algorithms. (In fact, I really like to learn new things. As the Pokemon champion [サトシ](https://www.youtube.com/watch?v=rg6CiPI6h2g) says, Gotta Catch 'Em All!) </p>
+I am also interested in many CV/NLP applications and optimization algorithms. (In fact, I really like to learn new things. As the Pokemon champion [サトシ](https://en.wikipedia.org/wiki/Ash_Ketchum) says, [Gotta Catch 'Em All](https://www.youtube.com/watch?v=rg6CiPI6h2g)!) </p>
 See my website for more details! :sunglasses: </p>
 
 
