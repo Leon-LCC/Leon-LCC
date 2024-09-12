@@ -10,7 +10,7 @@
 
 <h2>About me ✨</h2>
 
-<p fontSize="12px"> Welcome, visitor! I am Leon, and I'm a graduate student interested in AI security and privacy. 👨‍💻</br> </p>
+<p fontSize="12px"> Welcome, visitor! I am Leon, and I'm a first-year PhD student interested in AI security and privacy. 👨‍💻</br> </p>
 
 I am also interested in CV/NLP applications, optimization algorithms, and web development. (In fact, I always like to learn new stuff. As the Pokemon champion [サトシ](https://en.wikipedia.org/wiki/Ash_Ketchum) says, [Gotta Catch 'Em All](https://www.youtube.com/watch?v=rg6CiPI6h2g)!) </p>
 See my website for more details! :sunglasses: </p>
