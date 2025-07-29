@@ -10,9 +10,9 @@
 
 <h2>About me ✨</h2>
 
-<p fontSize="12px"> Welcome, visitor! I am Leon, and I'm a first-year PhD student interested in AI security and privacy. 👨‍💻</br> </p>
+<p fontSize="12px"> Welcome, visitor! I am Leon, a first-year PhD student interested in AI security and privacy. 👨‍💻</br> </p>
 
-I am also interested in CV/NLP applications, optimization algorithms, and web development. (In fact, I always like to learn new stuff. As the Pokemon champion [サトシ](https://en.wikipedia.org/wiki/Ash_Ketchum) says, [Gotta Catch 'Em All](https://www.youtube.com/watch?v=rg6CiPI6h2g)!) </p>
+I am also interested in machine learning, CV/NLP applications, optimization algorithms, and web development. (In fact, I always like to learn new stuff. As the Pokémon champion [サトシ](https://en.wikipedia.org/wiki/Ash_Ketchum) says, [Gotta Catch 'Em All](https://www.youtube.com/watch?v=rg6CiPI6h2g)!) </p>
 See my website for more details! :sunglasses: </p>
 
 
@@ -36,4 +36,4 @@ Here are some ideas to get you started:
 
 <h3>Acknowledgement :white_check_mark: </h3>
 
-The style of this profile is borrowed from my friend [Frank](https://swh00tw.vercel.app). Check out his repo and see some cool stuff he built.
+The style of this profile is borrowed from my friend [Frank](https://swh00tw.vercel.app). Check out his repo to see some cool stuff he built.
